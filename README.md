@@ -1,5 +1,6 @@
 # BluetoothActivity
 Eric Yu
+
 4/11/2015
 
 BluetoothActivity is an bluetooth communication app for android. This app is based off of Android Developer's open source BluetoothChat app.
